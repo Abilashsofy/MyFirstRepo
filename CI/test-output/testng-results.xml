@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2018-05-02T15:48:47Z" finished-at="2018-05-02T15:48:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2018-05-02T15:48:47Z" finished-at="2018-05-02T15:48:47Z">
+      <class name="myfirstCI.CI.myfirsttest">
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:myfirstCI.CI.myfirsttest@d2cc05a]" name="firsttest" duration-ms="16" started-at="2018-05-02T21:18:47Z" finished-at="2018-05-02T21:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+      </class> <!-- myfirstCI.CI.myfirsttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
